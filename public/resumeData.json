@@ -118,7 +118,14 @@
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "#"
+        "url": "https://netflix-793ba.web.app/"
+      }
+      ,
+      {
+        "title": "Codepen Clone",
+        "category": "Codepen Clone built with ReactJS",
+        "image": "5.jpg",
+        "url": "https://brave-heisenberg-d4cb15.netlify.app/"
       }
     ]
   },
